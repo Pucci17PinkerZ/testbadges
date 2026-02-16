@@ -1,2 +1,2 @@
-# testbadges
+# testbadge
  wow
